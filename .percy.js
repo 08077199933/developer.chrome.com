@@ -1,4 +1,5 @@
 const SNAPSHOTS = [
+  '/en/index.html',
   '/en/content-types/doc-post/index.html',
 ];
 
